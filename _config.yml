@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Cinus' Website"
+title                    : "Ciao!"
 title_separator          : "-"
 name                     : &name "Federico Cinus"
 description              : &description "Ph.D. Candidate in Data Science"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Federico Cinus"
-  pronouns         : "He/Him"# example: "she/her"  
+  pronouns         : "He/him "# example: "she/her"  
   bio              : "Ph.D. Candidate in Data Science"
   location         : "Italy"
   employer         : "Sapienza University | CENTAI"
@@ -31,11 +31,8 @@ author:
   email            : "" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  researchgate     : # URL
-  scopus           : # URL
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=T9NxWbYAAAAJ&view_op=list_works&sortby=pubdate"
+  researchgate     : "https://www.researchgate.net/profile/Federico-Cinus-2"# URL
 
   # Repositories and software development
   github           : "https://github.com/FedericoCinus"
