@@ -27,6 +27,6 @@ I’m excited to be graduating in May 2025!
    I'm honored and happy to be reviewing 8 papers for The Web Conference 2025! It's always a privilege to engage with cutting-edge research.
 
 2. **New Preprint: Engagement-Driven Content Generation with LLMs**  
-   I've just published a preprint exploring how large language models can generate content optimized for user engagement using reinforcement learning and opinion dynamics. Check out the preprint [here](https://arxiv.org/abs/2411.13187).
+   We've just published a preprint exploring how large language models can generate content optimized for user engagement using ``social'' reinforcement learning and opinion dynamics. Check out the preprint [here](https://arxiv.org/abs/2411.13187).
 
 Stay tuned!
