@@ -13,17 +13,16 @@ Education
 ======
 * **Ph.D. in Data Science**  
   Sapienza University, Rome (Italy) (Expected May 2025)  
-  - Sponsored by CENTAI [link](https://phd.uniroma1.it/web/FEDERICO-CINUS_nP1944916_IT.aspx)  
+  
   - **Dissertation:** Modeling, Detecting, and Mitigating Extreme User Behaviors on Social Media: Polarization, Echo Chambers, and Coordinated Campaigns.  
-  - **Supervisor:** Dr. Francesco Bonchi  
+  - **Supervisor:** Dr. Francesco Bonchi
+  - Sponsored by CENTAI
 
 * **M.Sc. in Physics of Complex Systems**  
-  University of Turin (Italy), 2 years  
-  - **Summa cum laude**  
+  University of Turin (Italy), 2 years, Summa cum laude.
 
 * **B.Sc. in Physics**  
-  University of Cagliari (Italy), 3 years  
-  - **Summa cum laude**
+  University of Cagliari (Italy), 3 years, Summa cum laude.
 
 Work Experience
 ======
@@ -58,4 +57,4 @@ Work Experience
 Languages
 ======
 * Italian (native)  
-* English (TOEFL iBT: 104/120 | CEFR: C1)  
+* English (TOEFL iBT: 104/120, CEFR: C1)  
