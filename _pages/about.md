@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Federico Cinus | Ph.D. in Data Science | Researcher in Social Media Dynamics"
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
