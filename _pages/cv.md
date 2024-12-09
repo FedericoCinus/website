@@ -11,54 +11,51 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Data Science**  
+  Sapienza University, Rome (Italy) (Expected May 2025)  
+  - Sponsored by CENTAI [link](https://phd.uniroma1.it/web/FEDERICO-CINUS_nP1944916_IT.aspx)  
+  - **Dissertation:** Modeling, Detecting, and Mitigating Extreme User Behaviors on Social Media: Polarization, Echo Chambers, and Coordinated Campaigns.  
+  - **Supervisor:** Dr. Francesco Bonchi  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **M.Sc. in Physics of Complex Systems**  
+  University of Turin (Italy), 2 years  
+  - **Summa cum laude**  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **B.Sc. in Physics**  
+  University of Cagliari (Italy), 3 years  
+  - **Summa cum laude**
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Work Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Ph.D. Student**  
+  CENTAI Institute, Turin (Italy), 2 years  
+  - **Team:** Social Algorithms  
+  - **Tools:** PySpark, PyTorch, PyTorch-Geometric, Pyro, scikit-learn, Matplotlib, MLFlow  
 
-Publications
+* **Visiting Research Assistant**  
+  Information Sciences Institute (USC), Los Angeles (USA), Summer 2024  
+  - **Supervisor:** Prof. Emilio Ferrara  
+  - **Tools:** PyTorch, cuML, scikit-learn, Polars, Matplotlib, Statsmodels  
+
+* **Data Science Intern**  
+  Nokia Bell Labs, Cambridge (UK), Summer 2023  
+  - **Manager:** Dr. Daniele Quercia  
+  - **Tools:** BigQuery, Pyarrow, Pandas, BeautifulSoup4, Statsmodels, scikit-learn, Matplotlib  
+
+* **Research Engineer Intern**  
+  KTH, Stockholm (Sweden), Spring 2022  
+  - **Supervisor:** Prof. Aristides Gionis  
+  - **Tools:** Numpy, Scipy, CVXpy  
+
+* **Junior Research Data Scientist**  
+  ISI Foundation, Turin (Italy), ~2 years  
+  - **Tools:** SQL, scikit-learn, XGBoost, Gephi  
+
+* **Undergraduate Research Intern**  
+  ISI Foundation, Turin (Italy), 6 months  
+  - **Tools:** Gensim, NLTK, NetworkX, Gephi  
+
+Languages
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Italian (native)  
+* English (TOEFL iBT: 104/120 | CEFR: C1)  
