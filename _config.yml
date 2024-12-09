@@ -35,12 +35,12 @@ author:
   researchgate     : "https://www.researchgate.net/profile/Federico-Cinus-2"# URL
 
   # Repositories and software development
-  github           : "https://github.com/FedericoCinus"
+  github           : "FedericoCinus"
 
   # Social media
-  bluesky          : "https://bsky.app/profile/federicocinus.bsky.social" # Replace this with you Bluesky username
-  linkedin         : "https://www.linkedin.com/in/federico-cinus/" # Username
-  twitter          : "https://x.com/Federico_Cinus" # Username for X / Twitter
+  bluesky          : "federicocinus.bsky.social" # Replace this with you Bluesky username
+  linkedin         : "federico-cinus" # Username
+  twitter          : "Federico_Cinus" # Username for X / Twitter
 
 
 # Publication Category - The following the list of publication categories and their headings
