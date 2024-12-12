@@ -1,3 +1,5 @@
+# Welcome!
+
 ---
 permalink: /
 title: ""
@@ -9,7 +11,7 @@ redirect_from:
 
 ## About
 
-Ciao! I’m **Federico**, a Ph.D. candidate in Data Science at Sapienza University, Rome, and a researcher at the CENTAI Institute. My research focuses on understanding and mitigating extreme behaviors on social media, such as polarization, echo chambers, and coordinated campaigns. With a strong foundation in physics and machine learning, I design models and algorithms to uncover insights into social systems and information dynamics, seamlessly balancing academic rigor with practical applications.
+Ciao, I’m **Federico**, a Ph.D. candidate in Data Science at Sapienza University, Rome, and a researcher at the CENTAI Institute. My research focuses on understanding and mitigating extreme behaviors on social media, such as polarization, echo chambers, and coordinated campaigns. With a strong foundation in physics and machine learning, I design models and algorithms to uncover insights into social systems and information dynamics, seamlessly balancing academic rigor with practical applications.
 
 Currently, I’m investigating innovative methods to fine-tune large language models (LLMs) using social reinforcement learning, where reward mechanisms are guided by stochastic dynamic processes on graphs. My work also delves into how LLMs can leverage internal concepts for unsupervised tasks, optimize opinion dynamics within the FJ model, and detect coordinated inauthentic behavior across various platforms.
 
