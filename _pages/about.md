@@ -1,5 +1,3 @@
-# Welcome!
-
 ---
 permalink: /
 title: ""
@@ -8,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+# Welcome!
+
 
 ## About
 
