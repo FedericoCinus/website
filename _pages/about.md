@@ -25,10 +25,12 @@ Exciting news—I’m set to graduate in May 2025!
 
 **February 2025**
 	•	📄 New Preprint: Minimizing Polarization and Disagreement in the Friedkin-Johnsen Model with Unknown Innate Opinions. Read it here.
+ 
 	•	📄 New Preprint: On the Inference of Sociodemographics on Reddit. Check it out here.
 
 **January 2025**
 	•	🎉 Accepted at The Web Conf 2025! Our paper Exposing Cross-Platform Coordinated Inauthentic Activity in the Run-Up to the 2024 U.S. Election has been accepted! Read the preprint here.
+
 
 **December 2024**
 
