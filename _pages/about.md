@@ -25,7 +25,7 @@ Exciting news—I’m set to graduate in May 2025!
 
 **February 2025**
 1. 📄 New Preprint: Minimizing Polarization and Disagreement in the Friedkin-Johnsen Model with Unknown Innate Opinions. Read it here.
-2. 
+  
 3. 📄 New Preprint: On the Inference of Sociodemographics on Reddit. Check it out here.
 
 **January 2025**
