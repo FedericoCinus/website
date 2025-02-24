@@ -19,9 +19,6 @@ Currently, I’m exploring innovative methods to fine-tune large language models
 
 ---
 
-
-## Blog  
-
 ### Latest News  
 
 <div style="max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #ddd; background: #f9f9f9; border-radius: 8px;">
