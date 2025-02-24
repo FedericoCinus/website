@@ -48,17 +48,19 @@ Stay tuned!
 
 ### Latest News  
 
-<details>
-  <summary><strong>February 2025</strong></summary>
+<div style="max-height: 300px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; background: #f9f9f9; border-radius: 8px;">
 
-  - 📄 **New Preprint:** *Minimizing Polarization and Disagreement in the Friedkin-Johnsen Model with Unknown Innate Opinions.* Read it [here](https://arxiv.org/abs/2501.16076).  
-  - 📄 **New Preprint:** *On the Inference of Sociodemographics on Reddit.* Check it out [here](https://arxiv.org/abs/2502.05049).  
+#### **February 2025**  
+- 📄 **New Preprint:** *Minimizing Polarization and Disagreement in the Friedkin-Johnsen Model with Unknown Innate Opinions.* Read it [here](https://arxiv.org/abs/2501.16076).  
+- 📄 **New Preprint:** *On the Inference of Sociodemographics on Reddit.* Check it out [here](https://arxiv.org/abs/2502.05049).  
 
-</details>
+#### **January 2025**  
+- 🎉 **Accepted at The Web Conf 2025!** Our paper *Exposing Cross-Platform Coordinated Inauthentic Activity in the Run-Up to the 2024 U.S. Election* has been accepted! Read the preprint [here](https://arxiv.org/abs/2410.22716). 
 
-<details>
-  <summary><strong>January 2025</strong></summary>
+**December 2024**
 
-  - 🎉 **Accepted at The Web Conf 2025!** Our paper *Exposing Cross-Platform Coordinated Inauthentic Activity in the Run-Up to the 2024 U.S. Election* has been accepted! Read the preprint [here](https://arxiv.org/abs/2410.22716).  
+1. I'm happy to be reviewing papers for The Web Conference 2025. 
 
-</details>
+2. 📄 We've just published a preprint exploring how large language models can generate content optimized for user engagement using ``social'' reinforcement learning and opinion dynamics. Check out the preprint [here](https://arxiv.org/abs/2411.13187). 
+
+</div>
