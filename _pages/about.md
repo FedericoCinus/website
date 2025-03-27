@@ -23,6 +23,12 @@ Currently, I’m exploring innovative methods to fine-tune large language models
 
 <div style="max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #ddd; background: #f9f9f9; border-radius: 8px;">
 
+<h4>March 2025</h4>
+<ul>
+  <li>📄 <b>New paper accepted at TIST.</li>
+  <li>🎓 Completed paper reviews for KDD 2025.</li>
+</ul>
+
 <h4>February 2025</h4>
 <ul>
   <li>📄 <b>New Preprint:</b> <i>Minimizing Polarization and Disagreement in the Friedkin-Johnsen Model with Unknown Innate Opinions.</i>  
