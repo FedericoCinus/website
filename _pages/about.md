@@ -25,8 +25,8 @@ Currently, I’m exploring innovative methods to fine-tune large language models
 
 <h4>March 2025</h4>
 <ul>
-  <li>📄 <b>New paper accepted at TIST.</li>
-  <li>🎓 Completed paper reviews for KDD 2025.</li>
+  <li>📄 <b>New paper accepted at TIST.</b></li>
+  <li>🎓 <b>Completed reviews for KDD 2025 submissions.</b></li>
 </ul>
 
 <h4>February 2025</h4>
