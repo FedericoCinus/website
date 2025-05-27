@@ -10,10 +10,10 @@ redirect_from:
 
 ## About
 
-Hi, I’m Federico, a Ph.D. candidate in Data Science at Sapienza University, Rome, and a researcher at the CENTAI Institute.
+Hi, I’m Federico, a researcher at the CENTAI Institute in Torino. I hold a Ph.D. in Data Science from Sapienza University of Rome.
 My research focuses on modeling, detecting, and mitigating harmful phenomena on social media, including polarization, echo chambers, and coordinated campaigns.
 
-Currently, I’m exploring innovative methods to fine-tune large language models (LLMs) using social reinforcement learning, where reward mechanisms are influenced by stochastic dynamic processes on graphs. My work also investigates how LLMs leverage internal concepts for unsupervised tasks, optimize opinion dynamics within the FJ model, and detect coordinated inauthentic behavior across multiple platforms.
+Additionally, I’m exploring innovative methods to fine-tune large language models (LLMs) using social reinforcement learning, where reward mechanisms are shaped by stochastic dynamic processes on graphs. My work also investigates how to optimize opinion dynamics within the Friedkin–Johnsen (FJ) model and detect coordinated inauthentic behavior across multiple platforms.
 
 ---
 
