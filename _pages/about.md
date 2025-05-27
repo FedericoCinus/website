@@ -15,8 +15,6 @@ My research focuses on modeling, detecting, and mitigating harmful phenomena on 
 
 Currently, I’m exploring innovative methods to fine-tune large language models (LLMs) using social reinforcement learning, where reward mechanisms are influenced by stochastic dynamic processes on graphs. My work also investigates how LLMs leverage internal concepts for unsupervised tasks, optimize opinion dynamics within the FJ model, and detect coordinated inauthentic behavior across multiple platforms.
 
-🎓 Exciting news—I’m set to graduate in May 2025!
-
 ---
 
 ## Latest News  
@@ -25,6 +23,7 @@ Currently, I’m exploring innovative methods to fine-tune large language models
 
 <h4>May 2025</h4>
 <ul>
+  <li>🎓 <b>Earned my PhD in Data Science cum laude from Sapienza University of Rome</b></li>
   <li>🎉 <b>New paper accepted at KDD 2025!</b></li>
 </ul>
 
