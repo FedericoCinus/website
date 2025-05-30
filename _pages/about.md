@@ -10,11 +10,11 @@ redirect_from:
 
 ## About
 
-Hi, I’m Federico, a research scientist at the CENTAI Institute in Torino. I hold a Ph.D. in Data Science from Sapienza University of Rome.
+Hi, I’m Federico 👋, a research scientist at the CENTAI Institute in Torino. I hold a Ph.D. in Data Science from Sapienza University of Rome.
 
 My work broadly focuses on understanding and modeling social behavior in digital environments, with recent projects exploring the intersection of reinforcement learning, language models, and online dynamics.
 
-Feel free to get in touch if you’re interested in collaborating.
+Feel free to get in touch if you’re interested in collaborating ✉️.
 
 ---
 
@@ -31,7 +31,7 @@ Feel free to get in touch if you’re interested in collaborating.
 
 <h4>April 2025</h4>
 <ul>
-  <li>🎉 Paper accepted at <b>IJCAI 2025</strong>: <a href="https://arxiv.org/abs/2501.16076" target="_blank"><em>Minimizing Polarization and Disagreement...</em></a>. See you in Montreal!</li>
+  <li>🎉 Paper accepted at <b>IJCAI 2025</b>: <a href="https://arxiv.org/abs/2501.16076" target="_blank"><em>Minimizing Polarization and Disagreement...</em></a>. See you in Montreal!</li>
   <li>🎓 Presented at <b>WWW 2025</b> in Sydney.</li>
 </ul>
 
