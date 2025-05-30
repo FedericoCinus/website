@@ -21,18 +21,18 @@ Feel free to get in touch if you’re interested in collaborating.
 ## Latest News  
 
 <div style="max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #ddd; background: #f9f9f9; border-radius: 8px;">
-
+  
 <h4>May 2025</h4>
 <ul>
-  <li>🎓 Earned my <strong>Ph.D. in Data Science (cum laude)</strong> from Sapienza University of Rome.</li>
-  <li>🎉 Paper accepted at <strong>KDD 2025</strong>: <a href="https://arxiv.org/abs/2411.13187" target="_blank"><em>Engagement-Driven Content Generation with LLMs</em></a>.</li>
+  <li>🎓 Earned my <b>Ph.D. in Data Science (cum laude)</b> from Sapienza University of Rome.</li>
+  <li>🎉 Paper accepted at <b>KDD 2025</b>: <a href="https://arxiv.org/abs/2411.13187" target="_blank"><em>Engagement-Driven Content Generation with LLMs</em></a>.</li>
 </ul>
 
 
 <h4>April 2025</h4>
 <ul>
-  <li>🎉 Paper accepted at <strong>IJCAI 2025</strong>: <a href="https://arxiv.org/abs/2501.16076" target="_blank"><em>Minimizing Polarization and Disagreement...</em></a>. See you in Montreal!</li>
-  <li>🎓 Presented at <strong>WWW 2025</strong> in Sydney.</li>
+  <li>🎉 Paper accepted at <b>IJCAI 2025</strong>: <a href="https://arxiv.org/abs/2501.16076" target="_blank"><em>Minimizing Polarization and Disagreement...</em></a>. See you in Montreal!</li>
+  <li>🎓 Presented at <b>WWW 2025</b> in Sydney.</li>
 </ul>
 
 
