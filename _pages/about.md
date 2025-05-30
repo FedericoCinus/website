@@ -31,9 +31,10 @@ Feel free to get in touch if you’re interested in collaborating.
 
 <h4>April 2025</h4>
 <ul>
-  <li>🎉 <b>New paper accepted at IJCAI 2025! See you in Montreal!</b></li>
-  <li>🎓 <b>Presented our paper at WWW 2025 in Sydney.</b></li>
+  <li>🎉 Paper accepted at <strong>IJCAI 2025</strong>: <a href="https://arxiv.org/abs/2501.16076" target="_blank"><em>Minimizing Polarization and Disagreement...</em></a>. See you in Montreal!</li>
+  <li>🎓 Presented at <strong>WWW 2025</strong> in Sydney.</li>
 </ul>
+
 
 <h4>March 2025</h4>
 <ul>
