@@ -10,7 +10,7 @@ redirect_from:
 
 ## About
 
-Hi, I’m Federico 👋, a research scientist at the [CENTAI Institute](https://www.cimolai.com/it/portfolio/torre-intesa-san-paolo/) in Torino. I hold a Ph.D. in Data Science from Sapienza University of Rome.
+Hi, I’m Federico 👋, a research scientist at the [CENTAI Institute](https://centai.eu/contacts) in [Torino](https://www.cimolai.com/it/portfolio/torre-intesa-san-paolo/). I hold a Ph.D. in Data Science from Sapienza University of Rome.
 
 My work broadly focuses on understanding and modeling social behavior in digital environments, with recent projects exploring the intersection of reinforcement learning, language models, and online dynamics.
 
