@@ -24,9 +24,10 @@ Feel free to get in touch if you’re interested in collaborating.
 
 <h4>May 2025</h4>
 <ul>
-  <li>🎓 <b>Earned my PhD in Data Science cum laude from Sapienza University of Rome</b></li>
-  <li>🎉 <b>New paper accepted at KDD 2025!</b></li>
+  <li>🎓 Earned my <strong>Ph.D. in Data Science (cum laude)</strong> from Sapienza University of Rome.</li>
+  <li>🎉 Paper accepted at <strong>KDD 2025</strong>: <a href="https://arxiv.org/abs/2411.13187" target="_blank"><em>Engagement-Driven Content Generation with LLMs</em></a>.</li>
 </ul>
+
 
 <h4>April 2025</h4>
 <ul>
