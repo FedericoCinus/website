@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * **Ph.D. in Data Science**  
-  Sapienza University, Rome (Italy) (Expected May 2025)  
+  Sapienza University, Rome (Italy), Summa cum laude.
   
-  - **Dissertation:** Modeling, Detecting, and Mitigating Extreme User Behaviors on Social Media: Polarization, Echo Chambers, and Coordinated Campaigns.  
+  - **Dissertation:** Modeling, Detecting, and Mitigating Harmful User Behaviors on Social Media: Polarization, Echo Chambers, and Coordinated Campaigns.
   - **Supervisor:** Dr. Francesco Bonchi
   - Sponsored by CENTAI
 
@@ -27,22 +27,22 @@ Education
 Work Experience
 ======
 * **Ph.D. Student**  
-  CENTAI Institute, Turin (Italy), 2 years  
+  CENTAI Institute (Social Algorithms Team), Turin (Italy), 2 years  
   - **Team:** Social Algorithms  
   - **Tools:** PySpark, PyTorch, PyTorch-Geometric, Pyro, scikit-learn, Matplotlib, MLFlow  
 
 * **Visiting Research Assistant**  
-  Information Sciences Institute (USC), Los Angeles (USA), Summer 2024  
+  Information Sciences Institute - USC (HUMANS LAB), Los Angeles (USA), Summer 2024  
   - **Supervisor:** Prof. Emilio Ferrara  
   - **Tools:** PyTorch, cuML, scikit-learn, Polars, Matplotlib, Statsmodels  
 
 * **Data Science Intern**  
-  Nokia Bell Labs, Cambridge (UK), Summer 2023  
+  Nokia Bell Labs (Responsible AI Team), Cambridge (UK), Summer 2023  
   - **Manager:** Dr. Daniele Quercia  
   - **Tools:** BigQuery, Pyarrow, Pandas, BeautifulSoup4, Statsmodels, scikit-learn, Matplotlib  
 
 * **Research Engineer Intern**  
-  KTH, Stockholm (Sweden), Spring 2022  
+  KTH (Division of Theoretical CS), Stockholm (Sweden), Spring 2022  
   - **Supervisor:** Prof. Aristides Gionis  
   - **Tools:** Numpy, Scipy, CVXpy  
 
