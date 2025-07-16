@@ -21,6 +21,11 @@ Feel free to get in touch if you’re interested in collaborating ✉️.
 ## Latest News  
 
 <div style="max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #ddd; background: #f9f9f9; border-radius: 8px;">
+
+<h4>July 2025</h4>
+<ul>
+  <li>🎉 Paper accepted at <b>EPJ Data Science</b>: <a href="https://link.springer.com/article/10.1140/epjds/s13688-025-00568-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250716&utm_content=10.1140/epjds/s13688-025-00568-4" target="_blank"><em>Measuring how computer science research translates into innovation and development</em></a>.</li>
+</ul>
   
 <h4>May 2025</h4>
 <ul>
@@ -64,7 +69,5 @@ Feel free to get in touch if you’re interested in collaborating ✉️.
   <li>🎓 I'm happy to be reviewing papers for The Web Conference 2025.</li>
   <li>📄 <b>New Preprint:</b> <i>We've just published a preprint exploring how large language models can generate content optimized for user engagement using "social" reinforcement learning and opinion dynamics.  
     Check it out <a href="https://arxiv.org/abs/2411.13187" target="_blank">here</a>.
-  </li>
-</ul>
 
 </div>
