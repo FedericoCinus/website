@@ -36,15 +36,15 @@ Feel free to get in touch if you’re interested in collaborating ✉️.
 
 <h4>April 2025</h4>
 <ul>
-  <li>🎉 Paper accepted at <b>IJCAI 2025</b>: <a href="https://arxiv.org/abs/2501.16076" target="_blank"><em>Minimizing Polarization and Disagreement...</em></a>. See you in Montreal!</li>
+  <li>🎉 Paper accepted at <b>IJCAI 2025</b>: <a href="https://arxiv.org/abs/2501.16076" target="_blank"><em>Minimizing Polarization and Disagreement in the Friedkin-Johnsen Model with Unknown Innate Opinions</em></a>. See you in Montreal!</li>
   <li>🎓 Presented at <b>WWW 2025</b> in Sydney.</li>
 </ul>
 
 
 <h4>March 2025</h4>
 <ul>
-  <li>🎉 <b>New paper accepted at TIST.</b></li>
-  <li>🎓 <b>Completed reviews for KDD 2025 submissions.</b></li>
+  <li>🎉 New paper accepted at <b>TIST.</b></li>
+  <li>🎓 Completed reviews for <b>KDD 2025 submissions.</b></li>
 </ul>
 
 <h4>February 2025</h4>
