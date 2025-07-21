@@ -67,5 +67,6 @@ Feel free to get in touch if you’re interested in collaborating ✉️.
 <h4>December 2024</h4>
 <ul>
   <li>🎓 I'm happy to be reviewing papers for The Web Conference 2025.</li>
-  <li>📄 <b>New Preprint:</b> <i>We've just published a preprint exploring how large language models can generate content optimized for user engagement using "social" reinforcement learning and opinion dynamics.  
+  <li>📄 <b>New Preprint:</b> <i>We've just published a preprint exploring how large language models can generate content optimized for user engagement using "social" reinforcement learning and opinion dynamics.</i>  
     Check it out <a href="https://arxiv.org/abs/2411.13187" target="_blank">here</a>.
+</li>
