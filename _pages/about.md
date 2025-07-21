@@ -20,7 +20,7 @@ Feel free to get in touch if you’re interested in collaborating ✉️.
 
 ## Latest News  
 
-<div style="max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #ddd; background: #f9f9f9; border-radius: 8px;">
+<div style="max-height: 250px; overflow-y: auto; padding: 10px; border: 1px solid #ddd; background: #f9f9f9; border-radius: 8px;">
 
 <h4>July 2025</h4>
 <ul>
@@ -69,5 +69,3 @@ Feel free to get in touch if you’re interested in collaborating ✉️.
   <li>🎓 I'm happy to be reviewing papers for The Web Conference 2025.</li>
   <li>📄 <b>New Preprint:</b> <i>We've just published a preprint exploring how large language models can generate content optimized for user engagement using "social" reinforcement learning and opinion dynamics.  
     Check it out <a href="https://arxiv.org/abs/2411.13187" target="_blank">here</a>.
-
-</div>
