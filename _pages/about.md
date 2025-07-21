@@ -44,7 +44,7 @@ Feel free to get in touch if you’re interested in collaborating ✉️.
 <h4>March 2025</h4>
 <ul>
   <li>🎉 New paper accepted at <b>TIST.</b></li>
-  <li>🎓 Completed reviews for <b>KDD 2025 submissions.</b></li>
+  <li>🎓 Completed reviews for <b>KDD 2025.</b></li>
 </ul>
 
 <h4>February 2025</h4>
