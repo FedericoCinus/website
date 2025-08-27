@@ -22,6 +22,11 @@ Feel free to get in touch if you’re interested in collaborating ✉️.
 
 <div style="max-height: 250px; overflow-y: auto; padding: 10px; border: 1px solid #ddd; background: #f9f9f9; border-radius: 8px;">
 
+<h4>August 2025</h4>
+<ul>
+  <li>🇨🇦 Honored to present our paper at the <b>International Joint Conference on Artificial Intelligence (IJCAI 2025)</b> in Montreal, Canada.</li>
+</ul>
+
 <h4>July 2025</h4>
 <ul>
   <li>🎉 Paper accepted at <b>EPJ Data Science</b>: <a href="https://link.springer.com/article/10.1140/epjds/s13688-025-00568-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250716&utm_content=10.1140/epjds/s13688-025-00568-4" target="_blank"><em>Measuring how computer science research translates into innovation and development</em></a>.</li>
