@@ -24,7 +24,7 @@ Feel free to get in touch if you’re interested in collaborating ✉️.
 
 <h4>August 2025</h4>
 <ul>
-  <li>🇨🇦 Honored to present our paper at the <b>International Joint Conference on Artificial Intelligence (IJCAI 2025)</b> in Montreal, Canada.</li>
+  <li>🎤 Honored to present our paper at the <b>International Joint Conference on Artificial Intelligence (IJCAI 2025)</b> in Montreal 🇨🇦.</li>
 </ul>
 
 <h4>July 2025</h4>
