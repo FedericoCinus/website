@@ -39,12 +39,7 @@ Feel free to reach out if you’re interested in collaborating ✉️:
 
 <h4>October 2025</h4>
 <ul>
-  <li>🔧 Updated and expanded our paper under review, 
-    <a href="https://arxiv.org/abs/2502.05049" target="_blank">
-      <em>Uncovering the Sociodemographic Fabric of Reddit</em>
-    </a>, with new analyses and improved methodology.
-  </li>
-  <li>🧭 Released an interactive tool to explore inferred sociodemographic patterns across subreddits: 
+  <li>📊 🔍 Released an interactive tool to explore inferred sociodemographic patterns across subreddits: 
     <a href="https://federicocinus.github.io/reddit-fabric/" target="_blank">reddit-fabric</a>.
   </li>
 </ul>
