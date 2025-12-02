@@ -12,9 +12,13 @@ redirect_from:
 
 Hi, I’m Federico 👋, a research scientist at the [CENTAI Institute](https://centai.eu/contacts) in [Torino](https://www.cimolai.com/it/portfolio/torre-intesa-san-paolo/). I hold a Ph.D. in Data Science from Sapienza University of Rome.
 
-My work broadly focuses on understanding and modeling social behavior in digital environments, with recent projects exploring the intersection of reinforcement learning, language models, and online dynamics.
+My research focuses on artificial intelligence for sociotechnical systems. I currently work on:  
+- developing new empirical and theoretical reinforcement learning algorithms,  
+- applying network-science methods to analyze internal representations of large language models for improved safety and honesty, and  
+- auditing LLM behaviors related to sociodemographic variation, personas, and model-based web-search capabilities.
 
-Feel free to get in touch if you’re interested in collaborating ✉️.
+Feel free to reach out if you’re interested in collaborating ✉️:  
+**federico dot cinus [at] centai dot eu**
 
 ---
 
