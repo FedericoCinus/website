@@ -30,7 +30,7 @@ Feel free to reach out if you’re interested in collaborating ✉️:
 
 <h4>November 2025</h4>
 <ul>
-  <li>📄 <b>New preprint:</b> 
+  <li>📄 <b>New preprint</b> (Under review):
     <a href="https://arxiv.org/abs/2510.27489" target="_blank">
       <em>Auditing LLM Editorial Bias in News Media Exposure</em>
     </a>.
@@ -39,7 +39,19 @@ Feel free to reach out if you’re interested in collaborating ✉️:
 
 <h4>October 2025</h4>
 <ul>
-  <li>📄 <b>New preprint:</b> 
+  <li>🔧 Updated and expanded our paper under review, 
+    <a href="https://arxiv.org/abs/2502.05049" target="_blank">
+      <em>Uncovering the Sociodemographic Fabric of Reddit</em>
+    </a>, with new analyses and improved methodology.
+  </li>
+  <li>🧭 Released an interactive tool to explore inferred sociodemographic patterns across subreddits: 
+    <a href="https://federicocinus.github.io/reddit-fabric/" target="_blank">reddit-fabric</a>.
+  </li>
+</ul>
+
+
+<ul>
+  <li>📄 <b>New preprint</b> (Under review): 
     <a href="https://arxiv.org/abs/2510.00803" target="_blank">
       <em>Online Minimization of Polarization and Disagreement via Low-Rank Matrix Bandits</em>
     </a>.
