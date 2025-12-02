@@ -26,6 +26,27 @@ Feel free to reach out if you’re interested in collaborating ✉️:
 
 <div style="max-height: 250px; overflow-y: auto; padding: 10px; border: 1px solid #ddd; background: #f9f9f9; border-radius: 8px;">
 
+
+
+<h4>November 2025</h4>
+<ul>
+  <li>📄 <b>New preprint:</b> 
+    <a href="https://arxiv.org/abs/2510.27489" target="_blank">
+      <em>Auditing LLM Editorial Bias in News Media Exposure</em>
+    </a>.
+  </li>
+</ul>
+
+<h4>October 2025</h4>
+<ul>
+  <li>📄 <b>New preprint:</b> 
+    <a href="https://arxiv.org/abs/2510.00803" target="_blank">
+      <em>Online Minimization of Polarization and Disagreement via Low-Rank Matrix Bandits</em>
+    </a>.
+  </li>
+</ul>
+
+
 <h4>August 2025</h4>
 <ul>
   <li>🎤 Honored to present our paper at the <b>International Joint Conference on Artificial Intelligence (IJCAI 2025)</b> in Montreal 🇨🇦.</li>
