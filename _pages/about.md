@@ -27,6 +27,15 @@ Feel free to reach out if you’re interested in collaborating ✉️:
 <div style="max-height: 250px; overflow-y: auto; padding: 10px; border: 1px solid #ddd; background: #f9f9f9; border-radius: 8px;">
 
 
+<h4>December 2025</h4>
+<ul>
+  <li>📄 <b>New preprint</b>:
+    <a href="https://www.arxiv.org/abs/2512.06655" target="_blank">
+      <em>GSAE: Graph-Regularized Sparse Autoencoders for Robust LLM Safety Steering</em>
+    </a>.
+  </li>
+</ul>
+
 
 <h4>November 2025</h4>
 <ul>
