@@ -28,7 +28,11 @@ Feel free to reach out if you’re interested in collaborating ✉️:
 
 <h4>January 2026</h4>
 <ul>
-  <li>🎉 Paper accepted at <b>ICLR 2026</b>: <a href="[https://link.springer.com/article/10.1140/epjds/s13688-025-00568-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250716&utm_content=10.1140/epjds/s13688-025-00568-4](https://arxiv.org/abs/2510.00803)" target="_blank"><em>Online Minimization of Polarization and Disagreement via Low-Rank Matrix Bandits</em></a>.</li>
+  <li>🎉 Paper accepted at <b>ICLR 2026</b>:
+    <a href="https://arxiv.org/abs/2510.00803" target="_blank">
+      <em>Online Minimization of Polarization and Disagreement via Low-Rank Matrix Bandits</em>
+    </a>.
+  </li>
 </ul>
 
 <h4>November 2025</h4>
