@@ -7,6 +7,9 @@ author_profile: true
 
 ## Media Coverage
 
+- 📰 **2026** — *Lucy Sui Mondi*  
+  [“Per alcune IA la crisi climatica è un complotto”](https://lucysuimondi.com/per-alcune-ia-la-crisi-climatica-e-un-complotto/) — Research on LLMs with web access.
+
 - 📰 **2025** — *Agenda Digitale*  
   [“IA contro la guerra ibrida”](https://www.agendadigitale.eu/cultura-digitale/ia-contro-la-guerra-ibrida-larma-in-piu-contro-le-interferenze-straniere/) — Research on information operations.
 
