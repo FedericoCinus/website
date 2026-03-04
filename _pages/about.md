@@ -14,14 +14,14 @@ Hi, I’m Federico 👋. I am an AI Researcher at [Intesa Sanpaolo](https://grou
 
 My research focuses on AI and optimization for information ecosystems, studying how intelligent systems learn from and interact with external information sources such as web content, social media, and institutional communication.
 
-I currently work on:
-	•	LLM safety — overrefusal and hallucinations
-	
-	•	AI agents with web access — auditing bias in retrieved sources
-	
-	•	Online learning — low-rank matrix bandits
-	
-	•	Financial markets — predicting ESTR swaps and SOFR from ECB, Fed, and macroeconomic releases
+<p>I currently work on:</p>
+
+<ul>
+  <li><strong>LLM safety</strong> — overrefusal and hallucinations</li>
+  <li><strong>AI agents with web access</strong> — auditing bias in retrieved sources</li>
+  <li><strong>Online learning</strong> — low-rank matrix bandits</li>
+  <li><strong>Financial markets</strong> — predicting ESTR swaps and SOFR from ECB, Fed, and macroeconomic releases</li>
+</ul>
 
 My work combines machine learning, graph mining, reinforcement learning, and mathematical optimization.
 
