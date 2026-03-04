@@ -10,21 +10,35 @@ redirect_from:
 
 ## About
 
-Hi, I’m Federico 👋, a research scientist at the [CENTAI Institute](https://centai.eu/contacts) in [Torino](https://www.cimolai.com/it/portfolio/torre-intesa-san-paolo/). I hold a Ph.D. in Data Science from Sapienza University of Rome.
+Hi, I’m Federico 👋. I am an AI Researcher at [Intesa Sanpaolo](https://group.intesasanpaolo.com/it/sezione-editoriale/eventi-progetti/tutti-gli-eventi/economia-e-mercati/anniversario-grattacielo-intesa-sanpaolo-torino) in Turin. I received my Ph.D. in Data Science from Sapienza University of Rome.
 
-My research focuses on artificial intelligence for sociotechnical systems. I currently work on:  
-- developing new empirical and theoretical reinforcement learning algorithms,  
-- applying network-science methods to analyze internal representations of large language models for improved safety and honesty, and  
-- auditing LLM behaviors related to sociodemographic variation, personas, and model-based web-search capabilities.
+My research focuses on AI and optimization for information ecosystems, studying how intelligent systems learn from and interact with external information sources such as web content, social media, and institutional communication.
 
-Feel free to reach out if you’re interested in collaborating ✉️:  
-**federico dot cinus [at] centai dot eu**
+I currently work on:
+	•	LLM safety — overrefusal and hallucinations
+	•	AI agents with web access — auditing bias in retrieved sources
+	•	Online learning — low-rank matrix bandits
+	•	Financial markets — predicting ESTR swaps and SOFR from ECB, Fed, and macroeconomic releases
+
+My work combines machine learning, graph mining, reinforcement learning, and mathematical optimization.
+
+Feel free to reach out if you’re interested in collaborating ✉️
+**federico dot cinus [at] intesasanpaolo dot com**
 
 ---
 
 ## Latest News  
 
 <div style="max-height: 250px; overflow-y: auto; padding: 10px; border: 1px solid #ddd; background: #f9f9f9; border-radius: 8px;">
+
+<h4>February 2026</h4>
+<ul>
+  <li>🛡️ Co-founded <strong>dotNex</strong>:
+    <a href="https://dotnex.ai/" target="_blank">
+      <em>Developing AI systems to detect and analyze information operations on social media.</em>
+    </a>
+  </li>
+</ul>
 
 <h4>January 2026</h4>
 <ul>
