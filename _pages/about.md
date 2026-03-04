@@ -16,8 +16,11 @@ My research focuses on AI and optimization for information ecosystems, studying 
 
 I currently work on:
 	•	LLM safety — overrefusal and hallucinations
+	
 	•	AI agents with web access — auditing bias in retrieved sources
+	
 	•	Online learning — low-rank matrix bandits
+	
 	•	Financial markets — predicting ESTR swaps and SOFR from ECB, Fed, and macroeconomic releases
 
 My work combines machine learning, graph mining, reinforcement learning, and mathematical optimization.
