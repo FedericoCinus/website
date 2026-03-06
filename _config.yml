@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Federico Cinus"
   pronouns         : "He/him "# example: "she/her"  
-  bio              : "Ph.D. Candidate in Data Science"
+  bio              : "Ph.D. in Data Science"
   location         : "Italy"
-  employer         : "Sapienza University | CENTAI"
-  email            : "cinus@diag.uniroma1.it" 
+  employer         : "Intesa Sanpaolo AI Research"
+  email            : "federico.cinus@intesasanpaolo.com" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=T9NxWbYAAAAJ&view_op=list_works&sortby=pubdate"
