@@ -34,6 +34,14 @@ Feel free to reach out if you’re interested in collaborating ✉️
 
 <div style="max-height: 250px; overflow-y: auto; padding: 10px; border: 1px solid #ddd; background: #f9f9f9; border-radius: 8px;">
 
+<li>📚 <b>Citation:</b> Our paper 
+  <a href="https://dl.acm.org/doi/abs/10.1145/3696410.3714698" target="_blank">
+    <i>[Exposing Cross-Platform Coordinated Inauthentic Activity in the Run-Up to the 2024 U.S. Election]</i>
+  </a> has been cited in a report by the Joint Research Centre (European Commission).  
+  View the report 
+  <a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC144603" target="_blank">here</a>.
+</li>
+
 <h4>March 2026</h4>
 <ul>
   <li>📄 <b>New Preprint:</b> <i>A Survey on Algorithmic Interventions in Opinion Dynamics.</i>  
