@@ -5,6 +5,13 @@ permalink: /talks/
 author_profile: true
 ---
 
+## Impact & Citations
+
+- 📚 **2026** — *European Commission (JRC)*  
+  Our paper *“Exposing Cross-Platform Coordinated Inauthentic Activity in the Run-Up to the 2024 U.S. Election”*  
+  (<https://dl.acm.org/doi/abs/10.1145/3696410.3714698>) was cited in an official report.  
+  [View publication](https://publications.jrc.ec.europa.eu/repository/handle/JRC144603)
+
 ## Media Coverage
 
 - 📰 **2026** — *Lucy Sui Mondi*  
