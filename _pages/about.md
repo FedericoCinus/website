@@ -34,6 +34,11 @@ Feel free to reach out if you’re interested in collaborating ✉️
 
 <div style="max-height: 250px; overflow-y: auto; padding: 10px; border: 1px solid #ddd; background: #f9f9f9; border-radius: 8px;">
 
+<h4>May 2026</h4>
+<ul>
+  <li>🏅 Honored to be recognized as a <b>Gold Reviewer</b> for <a href="https://icml.cc/Conferences/2026" target="_blank">ICML 2026</a>, with complimentary registration 🎉</li>
+</ul>
+
 <h4>April 2026</h4>
 <ul>
   <li>📚 <b>Citation:</b> Our paper 
